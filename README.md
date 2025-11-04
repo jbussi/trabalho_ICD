@@ -2,8 +2,8 @@
 
 ## 0. Participantes do Grupo
 
-- **João Paulo Bussi**
-- **Ashton Apebio Mergulhao Segnibo**
+- **João Paulo Bussi** [15495612]
+- **Ashton Apebio Mergulhao Segnibo** [15441765]
 - **Antonio Augusto Nunes de Souza**
 - **Professor:** Francisco Rodrigues
 
