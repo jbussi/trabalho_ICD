@@ -4,7 +4,7 @@
 
 - **João Paulo Bussi** [15495612]
 - **Ashton Apebio Mergulhao Segnibo** [15441765]
-- **Antonio Augusto Nunes de Souza**
+- **Antonio Augusto Nunes de Souza** [15440698]
 - **Professor:** Francisco Rodrigues
 
 ***
